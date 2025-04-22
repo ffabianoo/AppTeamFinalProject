@@ -60,7 +60,7 @@ and pick the category.
 Create levels/incentives.
 
 
-<img width="348" alt="Screenshot 2025-04-22 at 5 12 26 PM" src="https://github.com/user-attachments/assets/c49123f8-6657-4256-b02a-64bee8500fa9" />
+<img width="322" alt="Screenshot 2025-04-22 at 6 08 51 PM" src="https://github.com/user-attachments/assets/3df609b6-08f2-4800-8570-5ee587da5e96" />
 
 
 <img width="333" alt="Screenshot 2025-04-22 at 5 12 34 PM" src="https://github.com/user-attachments/assets/760149fe-9fb0-4f6b-adc9-09ad25603195" />
